@@ -2,7 +2,7 @@
 
 🚀 A voice-controlled AI assistant powered by OpenAI's GPT-4.  
 
-        ## ⚠️ Important ⚠️ ##
+   -----## ⚠️ Important ⚠️ ##----
 **YOU NEED YOUR OWN API KEY FROM OPENAI**  
       https://platform.openai.com
 
@@ -12,19 +12,20 @@
 
 ### 1. Install Dependencies  
 Run the following command to install the required libraries:  
+```sh
 pip install openai pyttsx3 SpeechRecognition
-
+```
 *(DO AT YOUR OWN RISK. I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO YOUR COMPUTER.)*  
 
 ### 2. Running the Assistant  
 Navigate to the file location:  
-
+```sh
 cd /Path/to/File/location
-
+```
 Run the script:  
-
+```sh
 python3 tars.py
-
+```
 
 ---
 
@@ -38,8 +39,13 @@ python3 tars.py
 If you face issues with **speech recognition**, install PortAudio:  
 
 **For macOS:**  
+```sh
 brew install portaudio
+```
+```sh
 pip install pyaudio
+```
+
 
 
 ---
