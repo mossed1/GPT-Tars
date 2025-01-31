@@ -51,3 +51,7 @@ pip install pyaudio
 ---
 
 Enjoy using TARS! 🚀  
+
+⚠️ **Disclaimer:** This software is provided *as-is* without any warranties.  
+I am not responsible for any damage, data loss, or other issues caused by running this program.  
+Use at your own risk.
