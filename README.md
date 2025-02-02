@@ -1,6 +1,9 @@
 # TARS - ChatGPT-4 Powered Voice Assistant #
 
 🚀 A voice-controlled AI assistant powered by OpenAI's GPT-4.  
+THE PERSONA.INI FILE ORIGIONATES FROM:
+https://github.com/pyrater/TARS-AI
+        GO CHECK THEM OUT
 
    -----## ⚠️ Important ⚠️ ##----
 **YOU NEED YOUR OWN API KEY FROM OPENAI**  
